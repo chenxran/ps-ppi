@@ -6,7 +6,7 @@ This repository is the official repository of the paper "[A Unified Framework fo
 
 ### Environment Setup
 
-To run the simulations, you need to set up both a Python and R environment. If you are not familiar with R or Python/Conda, please refer to their documentations as follows:
+The simulation code is based on Python. However, if you would like to run simulations with multiple imputation, you need to set up both a Python and R environment. If you are not familiar with R or Python/Conda, please refer to their documentations as follows:
 - [R Installation Guide](https://www.r-project.org/)
 - [Conda Installation Guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
