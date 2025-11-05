@@ -1,0 +1,24 @@
+.DS_Store
+.vscode
+
+# Python caches and artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Experiment outputs
+results/*
+!results/.gitkeep
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Slurm job outputs
+slurm-*.out
+slurm-*.err
